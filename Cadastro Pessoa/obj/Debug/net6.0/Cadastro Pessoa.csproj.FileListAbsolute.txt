@@ -1,0 +1,15 @@
+C:\Users\luanr\Documents\Luan\Cursos\Senai\Back-End\Cadastro Pessoa\bin\Debug\net6.0\Cadastro Pessoa.exe
+C:\Users\luanr\Documents\Luan\Cursos\Senai\Back-End\Cadastro Pessoa\bin\Debug\net6.0\Cadastro Pessoa.deps.json
+C:\Users\luanr\Documents\Luan\Cursos\Senai\Back-End\Cadastro Pessoa\bin\Debug\net6.0\Cadastro Pessoa.runtimeconfig.json
+C:\Users\luanr\Documents\Luan\Cursos\Senai\Back-End\Cadastro Pessoa\bin\Debug\net6.0\Cadastro Pessoa.dll
+C:\Users\luanr\Documents\Luan\Cursos\Senai\Back-End\Cadastro Pessoa\bin\Debug\net6.0\ref\Cadastro Pessoa.dll
+C:\Users\luanr\Documents\Luan\Cursos\Senai\Back-End\Cadastro Pessoa\bin\Debug\net6.0\Cadastro Pessoa.pdb
+C:\Users\luanr\Documents\Luan\Cursos\Senai\Back-End\Cadastro Pessoa\obj\Debug\net6.0\Cadastro Pessoa.csproj.AssemblyReference.cache
+C:\Users\luanr\Documents\Luan\Cursos\Senai\Back-End\Cadastro Pessoa\obj\Debug\net6.0\Cadastro Pessoa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luanr\Documents\Luan\Cursos\Senai\Back-End\Cadastro Pessoa\obj\Debug\net6.0\Cadastro Pessoa.AssemblyInfoInputs.cache
+C:\Users\luanr\Documents\Luan\Cursos\Senai\Back-End\Cadastro Pessoa\obj\Debug\net6.0\Cadastro Pessoa.AssemblyInfo.cs
+C:\Users\luanr\Documents\Luan\Cursos\Senai\Back-End\Cadastro Pessoa\obj\Debug\net6.0\Cadastro Pessoa.csproj.CoreCompileInputs.cache
+C:\Users\luanr\Documents\Luan\Cursos\Senai\Back-End\Cadastro Pessoa\obj\Debug\net6.0\Cadastro Pessoa.dll
+C:\Users\luanr\Documents\Luan\Cursos\Senai\Back-End\Cadastro Pessoa\obj\Debug\net6.0\ref\Cadastro Pessoa.dll
+C:\Users\luanr\Documents\Luan\Cursos\Senai\Back-End\Cadastro Pessoa\obj\Debug\net6.0\Cadastro Pessoa.pdb
+C:\Users\luanr\Documents\Luan\Cursos\Senai\Back-End\Cadastro Pessoa\obj\Debug\net6.0\Cadastro Pessoa.genruntimeconfig.cache
